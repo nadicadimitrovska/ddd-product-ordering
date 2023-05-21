@@ -3,6 +3,7 @@ package mk.ukim.finki.emt.ordermanagement.domain.model;
 import mk.ukim.finki.emt.sharedkernel.domain.base.AbstractEntity;
 import mk.ukim.finki.emt.sharedkernel.domain.financial.Money;
 
+
 import javax.persistence.*;
 import java.time.Instant;
 import java.util.Set;
