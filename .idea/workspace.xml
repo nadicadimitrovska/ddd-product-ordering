@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e71e08e-d3c1-4ea5-b888-5e13134a5bbc" name="Changes" comment="Auditory Exercise 10">
-      <change afterPath="$PROJECT_DIR$/shared-kernel/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared-kernel/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared-kernel/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared-kernel/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared-kernel/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared-kernel/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared-kernel/src/main/java/mk/ukim/finki/emt/sharedkernel/domain/base/AbstractEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared-kernel/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared-kernel/src/test/java/mk/ukim/finki/emt/sharedkernel/SharedKernel1ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-management/src/main/java/mk/ukim/finki/emt/ordermanagement/domain/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-management/src/main/java/mk/ukim/finki/emt/ordermanagement/domain/model/Order.java" afterDir="false" />
-    </list>
+    <list default="true" id="2e71e08e-d3c1-4ea5-b888-5e13134a5bbc" name="Changes" comment="Auditory Exercise 10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/shared-kernel" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/order-management" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -129,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684703026717</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Auditory Exercise 10">
+      <created>1684705329145</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684705329145</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
